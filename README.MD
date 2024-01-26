@@ -1,7 +1,7 @@
 <h3 align="center">
     <img src="https://avatars.githubusercontent.com/u/116309678?s=400&u=8db30e261b15b7b976d1ee6e366f707bc17bab8d&v=4" width="150"
         height="150" alt="logo" /></br>
-    L4nder
+    Sxmpl3
     <h5 align="center">
         I'm a red teamer, pentester and developer.</br>
         Profesional Python Developer
@@ -20,7 +20,7 @@
 
 <h2 align="center">Social Media</h2>
 <p align="center">
-    <a href="https://twitter.com/sxmpl3">
+    <a href="https://twitter.com/sxmpl3_">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"
             alt="Twitter">
     </a>
@@ -50,7 +50,7 @@
         alt="Python">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="Go">
-    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="Bash">
     <img src="https://img.shields.io/badge/C++-4EAA25?style=for-the-badge&logo=C&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="C & C++">
@@ -60,8 +60,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="Kali Linux">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
-        alt="Windows">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="Windows">
     <img alt="Arch Linux"
