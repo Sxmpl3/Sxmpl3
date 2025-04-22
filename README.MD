@@ -48,12 +48,14 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="Python">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
-        alt="Go">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
-        alt="Bash">
-    <img src="https://img.shields.io/badge/C++-4EAA25?style=for-the-badge&logo=C&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+    <img src="https://img.shields.io/badge/C++-4EAA25?style=for-the-badge&logo=CColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="C & C++">
+    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+            alt="PHP">
+    <img src="https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel&logo=CColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+            alt="Laravel">
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logo=CColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+            alt="React JS">
 </p><br>
 
 <h2 align="center">Operative Systems</h2>
