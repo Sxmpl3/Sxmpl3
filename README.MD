@@ -18,22 +18,6 @@
     </a><br>
 </p>
 
-<h2 align="center">Social Media</h2>
-<p align="center">
-    <a href="https://twitter.com/sxmpl3_">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"
-            alt="Twitter">
-    </a>
-    <a href="https://www.instagram.com/izaan.14">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"
-            alt="Instagram" />
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"
-            alt="Discord">
-    </a>
-</p><br>
-
 <h2 align="center">Github Stats</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Sxmpl3&row_icons=true&include_all_commits=true&hide=issues&hide_border=true&theme=nord"
@@ -46,24 +30,9 @@
 
 <h2 align="center">Languages</h2>
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
-        alt="Python">
-    <img src="https://img.shields.io/badge/C++-4EAA25?style=for-the-badge&logo=CColor=D9E0EE&color=B5E8E0&labelColor=302D41"
-        alt="C & C++">
-    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
-            alt="PHP">
-    <img src="https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel&logo=CColor=D9E0EE&color=B5E8E0&labelColor=302D41"
-            alt="Laravel">
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logo=CColor=D9E0EE&color=B5E8E0&labelColor=302D41"
-            alt="React JS">
-</p><br>
-
-<h2 align="center">Operative Systems</h2>
-<p align="center">
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
-        alt="Kali Linux">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
-        alt="Windows">
-    <img alt="Arch Linux"
-        src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41" />
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41" alt="Python">
+    <img src="https://img.shields.io/badge/C++-4EAA25?style=for-the-badge&logo=C%2B%2B&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41" alt="C & C++">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41" alt="PHP">
+    <img src="https://img.shields.io/badge/Laravel-2e2e2e?style=for-the-badge&logo=laravel&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41" alt="Laravel">
+    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41" alt="React JS">
 </p><br>
