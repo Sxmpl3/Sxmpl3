@@ -3,11 +3,7 @@
         height="150" alt="logo" /></br>
     Sxmpl3
     <h5 align="center">
-        I'm a red teamer, pentester and developer.</br>
-        Profesional Python Developer
-    </h5>
-    <h5 align="center">
-        If you want to develop some things contact me :)
+        Full Stack and Software Developer
     </h5>
 </h3>
 
